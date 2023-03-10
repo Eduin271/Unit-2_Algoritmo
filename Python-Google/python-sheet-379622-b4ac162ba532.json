@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-sheet-379622",
+  "private_key_id": "b4ac162ba53204a9e385fb6aa0fe7330471fa734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ2XofP56lDlhI\nxx3I6dfrhm2DygZYLUjfT3GlUIlFYJIu9KXgpGCcmFaQCCgVD6zOUNylQKNgGyOv\n5mC6/1mmMHq7sNYa+eOoIvYD9sEdsItRPo+U45u4NR9bczKpSyNOt8h5jczsMN3d\n2A1EanXvIvNR8gIsdwIH4NV+SUY7BV3NcWDK103l7vLsk4+QM13t9t4fwaDU+Q1d\nXEdcOE6qFUArlBGoOmV3DkF1LdNSlk9JJd+M2q5OrQGhoBEszlY9iCbjai51NnxU\nTO7TE5Ey/Vu4BK3D3mcDiz33nc/JIfnHEEYyTZ02W4K2GTtMN88qa93opkYbRU6Q\n5muhjqoJAgMBAAECggEAFU+oRI35i+W4hDzFBfu+TYJD4gxtjMsNTG8zS7vyWdDw\ngVsZ2RKA3auCGFVRRSeDPQGoZsVz1g8sRrpk7xYoznsCnqwrcyMhVA2WKd1wlzdx\n7DuQWefe5Wko9/jFKs44wNbLa/y6YHFdWvpA6KxOJ4aF7W0dLP1iu6ORLxP6+gNG\nUUwxyxn9S8si9sgROeEUEexIaNYgWI2yFrw0I+zD61UPgKPAGCk9DfN6RF0obHDa\novImV9v5UBJPv6iaxNy40M8LVQOdWsRKG62ElU35OGVqJOgt0soGKSLdBEgbSutS\nYxduyAxxEi8KBV8nMipNnNsAtAcofFkOnz381EeRIwKBgQD0PQoytuH55wwJm2Ya\nozvG3+LiypTKHgpsns8s8WZoJqawbfvAth7tglW7QgECnYevfinAYYRp4JwbjTlh\nlr9QfpecZtiCsJIZk27PuK+0oOX5Hnprg4g+Bw3MpLQivSGFkxNgrex+67nQwAS5\nuZaNrgbMbZ1sdoWGPY5dyzA+ywKBgQDkVx2ocHV9FE4WYbo5YpAowr33GGgKnehQ\nMAqdqA6N3u7bilPhK8RHXBzJh11P/pq3d12vxtAia7mhrG9fpaAOPIoWYVNKrqlQ\nxB3wkJF7I6N/wz9p21h1RgAzpUwl2TFIe5p8lmz1pOPFjPaVEptNPud1W8LnrcdB\n4aoieH8r+wKBgFcPXxA+0oRjEI5oH1hFcWxtqBGRhsIZPTwEy/LIRenARVDEk6XZ\nBWNCP08Vswh8oL40qatS14FqOBs2FwsrUhzeUyrEGk9To3CMdkaDHda0N+W6MIcc\nhrcdipS07SUo58cWayTeOlvvqPe5SrXtarYsH25FcIUWJnh4fsP+Rr9LAoGBAM+b\nLUnyRcAdcAoFfM2kAbItrY410JKmk4wkweIp5GG1KbLOCAmYQ3MmGr5YpsyOjpj0\nnGeu+ZnyG+sU3oY2DlojTOGgR5yFRUg7p4ULzFoLQyJsoQFb/wdRR+mtBpj66kYe\nq41PL24AJ198FM3hBvaqlMMtVP5UD/Ckfo2sxON1AoGAG0ksQa1cGnRk12czUuku\nBKTe5ko9I4uWkrCeqhi0F/btCyW0jZ8V8yAl68k3BKGgGVjthyuhgHhDnQkIca6C\nz/pVd2d7eSQWd/Z7MAyGgmSAmKiXou7G1g8W92Y6qxPb1dU0TEsHqYLG/BIU8ff0\nMvXvLZs9Q6MLGqgYlxom0qk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chavarria-eduin@python-sheet-379622.iam.gserviceaccount.com",
+  "client_id": "114562303350715912174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chavarria-eduin%40python-sheet-379622.iam.gserviceaccount.com"
+}
